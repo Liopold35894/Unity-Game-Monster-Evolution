@@ -1,4 +1,4 @@
-# Unity-Game-Monster-Evolution
+# Unity-Game-Monster-Evolution - Personal Project
 This is a personal project I make for learning purposes.
 Description: Developed an in-progress game titled "Monster Evolution," inspired by the mechanics of vampire-survivor games. In this game, players control a character from a top-down view and face waves of enemies approaching from all directions. Key features include:
 •	Character Progression: Players gain experience points (EXP) by defeating enemies, which allows them to level up and upgrade their weapons and abilities.
